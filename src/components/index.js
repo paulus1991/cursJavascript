@@ -2,4 +2,4 @@ function test(a,b){
     return a +b
 }
 
-test(5,16)
+test(5,32)
